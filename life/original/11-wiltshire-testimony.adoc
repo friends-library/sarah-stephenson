@@ -1,4 +1,5 @@
-== An abstract of the Testimony of the Monthly Meeting of Wiltshire.
+[#testimony1, short="Testimony of Wiltshire Meeting"]
+== An Abstract of the Testimony of the Monthly Meeting of Wiltshire.
 
 Our much beloved friend Sarah Stephenson,
 a member of this meeting for upwards of thirty years,
@@ -79,7 +80,10 @@ the 14th of the twelfth month, 1802.
 The following is an extract of a letter to a Friend in England, written by the deceased,
 from the city of New York.
 
-"`Although, my dear, we are very far outwardly separated,
+[.embedded-content-document.letter]
+--
+
+Although, my dear, we are very far outwardly separated,
 this is not able to prevent sweet union of spirit,
 and humble intercession for strength to advance towards the holy city,
 where the saints`' solemnities are kept.
@@ -87,4 +91,6 @@ O, the joy that will there be revealed, and forever remain, without alloy!
 That our poor feeble spirits may be daily engaged in this humble fervent travail,
 is the desire of my soul: that so, through adorable mercy, we may be favoured to meet,
 never to part; and with the just of all generations,
-unite in the glorious song of Moses and the Lamb!`"
+unite in the glorious song of Moses and the Lamb!
+
+--

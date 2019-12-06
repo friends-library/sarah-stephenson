@@ -1,14 +1,30 @@
 == Chapter VII.
 
-Two memorandums--Visits the North again--Ackworth
-school--Esther Tuke--Edinburgh--John Wigham--Glasgow,
-Cornwood,
-and Allandale--Meetings in Durham and Yorkshire--Families at Whitby and Scarborough--York
-Quarterly Meeting--Deborah Townsend--Families at Pickering and Hull,
-etc.--A third time at Lancaster--Families at Liverpool--Esther Tuke near her
-close--Families at Mansfield--Coalbrookdale--Ann Summerland--Extract of a letter--Visits
-families in some Southern and Western counties--A visit to part of the Eastern
-and Southern counties--Families at Norwich--At Lynn and Yarmouth--At Colchester.
+[.chapter-synopsis]
+* Two memorandums
+* Visits the North again
+* Ackworth school
+* Esther Tuke
+* Edinburgh
+* John Wigham
+* Glasgow, Cornwood, and Allandale
+* Meetings in Durham and Yorkshire
+* Families at Whitby and Scarborough
+* York Quarterly Meeting
+* Deborah Townsend
+* Families at Pickering and Hull, etc.
+* A third time at Lancaster
+* Families at Liverpool
+* Esther Tuke near her close
+* Families at Mansfield
+* Coalbrookdale
+* Ann Summerland
+* Extract of a letter
+* Visits families in some Southern and Western counties
+* A visit to part of the Eastern and Southern counties
+* Families at Norwich
+* At Lynn and Yarmouth
+* At Colchester.
 
 We have no account of further travels during the remainder of the year 1792,
 nor of many in the following year;
@@ -353,13 +369,18 @@ who is forever worthy to be served, worshipped and adored.`"
 The following short extract of a letter written soon after her return from this journey,
 may be a pleasant supplement.
 
-"`It is matter of humble thankfulness, that, on looking back it affords peace,
+[.embedded-content-document.letter]
+--
+
+It is matter of humble thankfulness, that, on looking back it affords peace,
 and that I reverently feel a belief of having cleared the way;
 not left undone what I ought to have done.
 But notwithstanding, this language has been much the companion of my mind,
 I am but an unprofitable servant.
 Indeed I feel nothing whereof to boast, save infirmities,
-and I hope a little in the cross of Christ.`"
+and I hope a little in the cross of Christ.
+
+--
 
 In 1795, she was at London at the Yearly Meeting,
 and in the following winter visited the families of Friends at Exeter, Shaftsbury,

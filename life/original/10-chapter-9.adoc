@@ -1,10 +1,28 @@
 == Chapter IX.
 
-Visit to America--Letters--Leaves home--Embarks--The voyage--New York--Family visit
-there--Yellow fever--Long Island--Various services--Quits New York--Journey to Philadelphia--Family
-visit in Pine Street meeting--Laid up--Goes to Germantown--Soon returns to the city--Confined
-to the chamber--Visit of Mehetabel Jenkins--State of mind,
-and expressions near the close--Her decease--Abstract of a testimony, etc.--Conclusion.
+[.chapter-synopsis]
+* Visit to America
+* Letters
+* Leaves home
+* Embarks
+* The voyage
+* New York
+* Family visit there
+* Yellow fever
+* Long Island
+* Various services
+* Quits New York
+* Journey to Philadelphia
+* Family visit in Pine Street meeting
+* Laid up
+* Goes to Germantown
+* Soon returns to the city
+* Confined to the chamber
+* Visit of Mehetabel Jenkins
+* State of mind, and expressions near the close
+* Her decease
+* Abstract of a testimony, etc.
+* Conclusion.
 
 We are now drawing towards the last travels of this indefatigable labourer.
 We have seen the early arisings in her heart of Divine love.
@@ -31,7 +49,11 @@ her feelings on which occasion cannot, probably,
 be better conveyed to the reader than by the following extract of a letter to her relation,
 Joseph Storrs.
 
-"`Melksham, 4th of Third month, 1801.
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
+Melksham, 4th of Third month, 1801.
 
 I have been confined to my chamber about a month, with a complaint, I believe,
 much owing to deep exercise of mind;
@@ -59,9 +81,13 @@ with your prayers for preservation in every way: being indeed a poor creature,
 but very desirous of being preserved from bringing any shade on the blessed Truth,
 whatever becomes of this poor body.
 
+[.signed-section-closing]
 I remain thy truly affectionate, exercised cousin,
 
+[.signed-section-signature]
 Sarah Stephenson.
+
+--
 
 To the foregoing, the succeeding extract of a letter to the same Friend,
 is a suitable appendix.
@@ -69,6 +95,10 @@ It further demonstrates the tenour of her mind;
 and leads through another step of the precaution enjoined by our discipline,
 as a preliminary to travels on religious service in foreign parts.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Melksham, 11th of Fourth month, 1801.
 
 Your tender sympathy under the baptizing power of Truth,
@@ -87,9 +117,13 @@ but how must it be without the unity and sympathy of Zion`'s faithful travellers
 Our Quarterly Meeting was held here last week, when, to my humbling admiration,
 a current spread of tender sympathy, and as Friends expressed, of unity.
 
+[.signed-section-closing]
 I remain, etc.
 
+[.signed-section-signature]
 Sarah Stephenson.
+
+--
 
 After this our friend attended the Yearly Meeting.
 In the meeting of ministers and elders,
@@ -295,7 +329,10 @@ Here ended her memorandums; but in a letter, dated near Rahway,
 the 28th and 30th of the first month, 1802,
 she mentions the accomplishment of the family visit at New York, nearly as follows:
 
-"`Though my mind was often low, yet merciful Goodness was underneath,
+[.embedded-content-document.letter]
+--
+
+Though my mind was often low, yet merciful Goodness was underneath,
 so that through the renewing of daily help,
 that arduous service at New York was finished under the feeling of peaceful serenity.
 We had about two hundred and eighty sittings, besides attending meetings,
@@ -316,7 +353,9 @@ attended with spasms.
 After being prevailed on to take some medicine,
 I was somewhat relieved of the pain in my head;
 and if I continue mending I hope we may set off in a few days for Philadelphia,
-without taking many meetings by the way, as the roads are yet very bad.`"
+without taking many meetings by the way, as the roads are yet very bad.
+
+--
 
 The 31st, being better, though yet very weak, she proceeded accordingly,
 attending by the way, the meetings of Plainfield, Stonybrook, Trenton and Bristol,
