@@ -1,9 +1,19 @@
 == Chapter VIII.
 
-Two memorandums--Journey to Wales--Extract of a letter--Yearly Meeting--Three
-memorandums--Visits Ireland again--Her letter relative to that subject--Short
-account of the journey--Letter from Cork--From Castlebank--From Rathfriland--Extracts
-from others--Paper found without date.
+[.chapter-synopsis]
+* Two memorandums
+* Journey to Wales
+* Extract of a letter
+* Yearly Meeting
+* Three memorandums
+* Visits Ireland again
+* Her letter relative to that subject
+* Short account of the journey
+* Letter from Cork
+* From Castlebank
+* From Rathfriland
+* Extracts from others
+* Paper found without date.
 
 During the interval between the eastern journey related in the foregoing chapter,
 and one taken in the same year in nearly an opposite direction,
@@ -37,9 +47,14 @@ Her next journey was into Wales, and Mary Jefferys was again her companion.
 North Wales was a principal object; but the families of Friends of Worcester,
 and a few meetings in Warwickshire, were included in the prospect.
 
+[.offset]
 The following extract of a letter written at Pontypool,
 will show her feelings at the outset.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 30th of Ninth month, 1797.
 
 My spirit rejoices at being favoured with the unity of the brethren.
@@ -53,7 +68,9 @@ but I endeavour to look from them, and as much as possible,
 humbly lean on Him who is strength in weakness, riches in poverty,
 and a true helper in the needful time, to the poor little ones, that trust in him,
 and +++[+++have]
-not in all the earth, any thing that they desire in comparison of him.`"
+not in all the earth, any thing that they desire in comparison of him.
+
+--
 
 In the twelfth month, she had accomplished her visit,
 and intimated to her Monthly Meeting that she had been divinely
@@ -106,8 +123,13 @@ which rendered the prospect of travelling in it alarming to her natural fears.
 The following letter to her relation, Joseph Storrs, of Chesterfield,
 will show the manner in which it affected her.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Melksham, 21st of Second month, 1799.
 
+[.salutation]
 My beloved cousin,
 
 I received thy truly acceptable lines.
@@ -136,9 +158,13 @@ and I also crave your prayers for the preservation of my best life;
 and that the cause of Truth and righteousness may not in any wise suffer through me--not,
 if the mighty ocean should prove my grave.
 
+[.signed-section-closing]
 I remain your nearly affectionate, exercised cousin,
 
+[.signed-section-signature]
 Sarah Stephenson, Jr.
+
+--
 
 She received in the third month,
 a certificate of the full concurrence of Friends of her Monthly Meeting;
@@ -198,8 +224,13 @@ but though our friend has been thus brief in description,
 the chasm may be well supplied by some letters to her relations,
 written during the journey.
 
+[.offset]
 The first extract is from one to her cousin, Joseph Storrs.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Cork, 18th of Seventh month, 1799.
 
 For some weeks past, we have been closely engaged in visiting families here;
@@ -283,12 +314,19 @@ and every future day of my life, if many days are allotted me by Divine Wisdom;
 though that does not seem very likely,
 for my frame seems considerably shaken since I came into this land.
 
+--
+
 The following extract of a letter written on the way from Cork to Limerick,
 and at the latter place, gives an account of the completion of the family visit,
 and of her final farewell to the Friends of Cork.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Casllebank, 9th of Eighth month, 1799.
 
+[.salutation]
 My beloved cousin,
 
 I now sit down to salute you by a line after the
@@ -300,7 +338,13 @@ and through the renewed daily help of the Shepherd of Israel, were enabled to fi
 the evening before the last; and yesterday attended their meeting,
 in which we had to take a sweet and solemn leave.
 
+--
+
+[.offset]
 After some further narration not material to insert, she adds,
+
+[.embedded-content-document.letter]
+--
 
 May all within us bless his holy name,
 thankfully acknowledging that hitherto the Lord hath helped us;
@@ -308,6 +352,8 @@ and humbly beg that he will be pleased to continue near to preserve us,
 and direct all our movements, that so they may meet with holy acceptance,
 and our spirits be favoured with that peace,
 which the world can neither give nor take away.
+
+--
 
 "`Limerick, 11th. We were favoured to get here on seventh-day evening safely,
 though a good deal fatigued.
@@ -329,6 +375,10 @@ and shows that a mind closely engaged in fulfilling its own share of religious d
 is still open to sympathy for the distresses of others;
 its insertion may please and benefit the reader.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Rathfriland, 19th of Eleventh month, 1799.
 
 I find it a task to address my beloved cousin, after an event that so nearly affects her,
@@ -352,7 +402,9 @@ that so, when my measure of suffering is filled up,
 my exercised spirit may rest with Him who has been near in six troubles,
 and I humbly hope will not leave in the seventh;
 and may his ever blessed arm of help and tender succour be near,
-for thy preservation and support.`"
+for thy preservation and support.
+
+--
 
 The remaining extracts are from letters to Joseph Storrs.
 They conduct the reader through much of the remainder of the journey,
@@ -360,6 +412,9 @@ and show the state of her devoted mind at its close,
 when safely returned to her own habitation.
 The letter which first occurs has several dates.
 It was begun in Ulster province, and finished at Dublin.
+
+[.embedded-content-document.letter]
+--
 
 My dear cousin`'s truly acceptable lines have lain
 much longer unanswered than has felt easy to me;
@@ -419,8 +474,12 @@ Dublin, 11th of twelfth month, 1799.
 We got here last evening much fatigued.
 We left Charity Cook with the appearance of a favourable recovery.
 
-* * *
+--
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Enniscorthy, 4th of Fourth month, 1800.
 
 The cause of my not writing arose from a hope of a more speedy release from this land;
@@ -464,9 +523,16 @@ May the God of all grace be with and keep you and us while on earth,
 and cause us to meet again in uninterrupted peace, joy, and holy consolation,
 is the humble breathing of your nearly affectionate, exercised cousin,
 
+[.signed-section-signature]
 Sarah Stephenson.
 
+--
+
+[.offset]
 The following was written from Melksham in the fifth month.
+
+[.embedded-content-document.letter]
+--
 
 I have thankfully to commemorate the goodness of adorable mercy,
 in carrying us through so arduous a journey, I hope safely in all respects;
@@ -480,6 +546,9 @@ it sinks my mind into admiration of condescending goodness to make use of me.
 May I, during the few fleeting days that are yet behind, be enabled so to steer,
 that my poor little bark may arrive at the haven of rest.
 
+--
+
+[.offset]
 The materials collected afford nothing for the remainder of the year, but the following:
 
 "`28th of the eighth month, 1800.

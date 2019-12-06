@@ -1,10 +1,13 @@
 == Chapter VI.
 
-Visits Hampshire, Kent, Surry, Somerset, Devon, Dorset,
-Cornwall--A Written soliloquy--Visits the Northern and Midland
-counties--Extract of a letter--Visits families in Hants,
-Eastern, Northern, and Midland counties--Second family visit at Sheffield,
-and at Kendal--Family visit at Birmingham.
+[.chapter-synopsis]
+* Visits Hampshire, Kent, Surry, Somerset, Devon, Dorset, Cornwall
+* A Written soliloquy
+* Visits the Northern and Midland counties
+* Extract of a letter
+* Visits families in Hants, Eastern, Northern, and Midland counties
+* Second family visit at Sheffield, and at Kendal
+* Family visit at Birmingham.
 
 Sarah Stephenson does not appear to have travelled much during the remainder
 of the year in which she closed her engagements in Ireland.
@@ -61,11 +64,16 @@ will show her humble disposition,
 and in the scarcity of information relating to this engagement,
 may be acceptable to the reader.
 
+[.embedded-content-document.letter]
+--
+
 "`I have had renewedly hitherto, on this journey,
 to admire His love and great condescension in helping me along,
 so as to leave the places in general peaceful: a favour beyond the expression of words.
 Indeed, I cannot but humbly admire his goodness afresh, being often led to feel that,
 '`My father`'s family is poor in Manasseh, and I am the least in my father`'s house.`'`"
+
+--
 
 When she attended the Monthly Meeting on her return, and gave back her certificate,
 she informed her friends that in the course of her visit, from meeting to meeting,
