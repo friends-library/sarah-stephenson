@@ -67,11 +67,11 @@ may be acceptable to the reader.
 [.embedded-content-document.letter]
 --
 
-"`I have had renewedly hitherto, on this journey,
+I have had renewedly hitherto, on this journey,
 to admire His love and great condescension in helping me along,
 so as to leave the places in general peaceful: a favour beyond the expression of words.
 Indeed, I cannot but humbly admire his goodness afresh, being often led to feel that,
-'`My father`'s family is poor in Manasseh, and I am the least in my father`'s house.`'`"
+'`My father`'s family is poor in Manasseh, and I am the least in my father`'s house.`'
 
 --
 
@@ -335,7 +335,7 @@ and some consolation to the poor travellers Zionward, was handed forth.
 From Skipton, taking one meeting by the way, we went to Rawden;
 and had deep wading at the meeting on first-day,
 but after a considerable time of starving that thirst for vocal
-ministry which is painful to rightly exercised ministers.
+ministry which is painful to rightly exercised ministers,
 Truth arose.
 
 "`We went the same evening to dear Christiana Hustler`'s, near Bradford,
